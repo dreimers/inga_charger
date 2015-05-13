@@ -13,3 +13,11 @@ based on [MCP7831 Datasheet](http://www.microchip.com/wwwproducts/Devices.aspx?p
 - Vsupply range 	3.75 to 6V
 
 The part can be found in [my_eagle_parts] (https://github.com/dreimers/my_eagle_parts)
+
+##schematic
+![schematic](docs/inga_charger_schematic_small.png)
+##layout
+###top
+![Top Layout](docs/inga_charger_pcb_top.png)
+###bottom
+![Bottom Layout](docs/inga_charger_pcb_bottom.png)
